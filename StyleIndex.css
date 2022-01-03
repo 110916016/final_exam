@@ -1,0 +1,16 @@
+h1{
+    color:blue;
+}
+div{
+    padding: 5px;
+}
+.img1{
+    margin-top:5px ;
+    background-color: yellow;
+    border-radius: 20px;
+}
+.img2{
+    margin-top:5px ;
+    background-color: red;
+    border-radius: 20px;
+}
